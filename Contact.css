@@ -1,0 +1,38 @@
+*{
+    margin: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+p{
+    background-color: beige;
+    margin: 5px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+a{
+    margin: 5px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: (hotpink);
+}
+h1{
+    background-color: beige;
+    margin: 5px;
+    border-radius: 10000px;
+    padding: 5px;
+    
+    text-align: center;
+    font-size: 100px;
+    font-style: 100px;
+}
+div{
+    font-size: 50px;
+    text-align: center;
+    background-color: wheat;
+    background-size: .5rem;
+}
